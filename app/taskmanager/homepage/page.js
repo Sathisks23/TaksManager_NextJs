@@ -51,7 +51,7 @@ export default function homepage(){
      const statusChange =(e,id)=>{
              setId(id)
              setStatus(event.target.value)
-        //  const fechData = fetch(process.env.NEXT_PUBLIC_API_URL+'')
+        
      }
 return(
     
